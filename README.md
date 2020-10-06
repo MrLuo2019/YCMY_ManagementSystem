@@ -1,5 +1,7 @@
 # ycmy_management_system
 
+# 亿辰美业
+
 ## Project setup
 ```
 yarn install
